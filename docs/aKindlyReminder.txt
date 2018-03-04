@@ -1,0 +1,3 @@
+When importing java project from csci2600 P.O.S.
+Remember to use eclipse first so it works with professor's strange requirements.
+Then just use any IDE to open the .project file to actually start working.
